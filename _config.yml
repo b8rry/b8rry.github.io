@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Barry Amundson | Senior Production Design Professional | Expert in Digital, Motion, and Print Execution
-email: hi@barrya.com
+title: Barry Amundson
 description: >- # this means to ignore newlines until "baseurl:"
   Expert in digital, print and motion graphics execution with proven 
   track record delivering high-impact campaigns for global and regional brands.
