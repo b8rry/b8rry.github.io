@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is where you'll find an about page for me.
+![Barry with a wig](assets/images/barry-wig.jpeg)
+
+I am a revolutionary office worker.

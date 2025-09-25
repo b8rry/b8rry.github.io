@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is where you'll find the home page for me.
+![Barry on a haystack](assets/images/barry-haystack.jpeg)
