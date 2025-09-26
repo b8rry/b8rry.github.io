@@ -5,4 +5,10 @@
 layout: home
 ---
 
-![Barry on a haystack](assets/images/barry-haystack.jpeg)
+I've worked in the advertising / branding / marketing industry in various capacities as a designer, production designer and art director. I love working with awesome teams and executing great creative, whether it's digital production for social media, web animation and banners, or complex print jobs. 
+
+Specialties: Adobe CC (Photoshop, Illustrator, InDesign, Premiere & After Effects), Figma, HTML/CSS, GSAP, Print Production and Motion Graphics.
+
+Let's talk! Reach out to me on LinkedIn.
+
+![Barry on a haystack](/assets/images/barry-haystack.jpeg)
