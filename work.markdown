@@ -22,11 +22,14 @@ permalink: /work/
 # Call to Safety - Broadcast Video, Banner Ads
 ![Call to Safety - Broadcast Video Example](/assets/portfolio/It's okay if.png)
 
+[Link to broadcast video](assets/videos/CTST0002000-30-English-Digital-Call_To_Safety.mp4)
+
+
 **Role:**Video Editing, Animator
 
 **Tools Used:** Photoshop, Illustrator, After Effects, HTML/CSS/JS/GSAP
 
-**What I Did:** I animated a impactful video for people experiencing domestic violence, as well as animated web banners.
+**What I Did:** I animated a impactful video for people experiencing domestic violence, as well as built social media and animated web banners.
 
 <br />
 # Uncle Nearest Whiskey - Billboards, Banner Ads, Print Ads, Promo Book, Product Hang Tag
