@@ -9,6 +9,6 @@ I've worked in the advertising / branding / marketing industry in various capaci
 
 Specialties: Adobe CC (Photoshop, Illustrator, InDesign, Premiere & After Effects), Figma, HTML/CSS, GSAP, Print Production and Motion Graphics.
 
-Let's talk! Reach out to me on LinkedIn.
+[Let's talk!](/contact)
 
 ![Barry on a haystack](/assets/images/barry-haystack.jpeg)

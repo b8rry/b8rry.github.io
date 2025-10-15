@@ -28,6 +28,7 @@ url: "http://barrya.com" # the base hostname & protocol for your site, e.g. http
 # email: hi@barrya.com
 # instagram_username: y_o_p
 linkedin_username: hibarry
+discogs_username: barrya
 
 # Fields that minima uses but are not default wiht jekyll
 # Author is the default for Posts, aton feed and used in the footer
