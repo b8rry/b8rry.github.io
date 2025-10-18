@@ -109,6 +109,13 @@ permalink: /work/
 ![SLT Barracade Ad](/assets/portfolio/SLT/SLT_Barricade2-13213.jpg)
 
 
+**Role:** Print Production, Retouching
+
+**Tools Used:** Photoshop, InDesign
+
+**What I Did:** Laid out multiple print campaigns, Photoshop retouching.
+
+
 <br />
 # Feast - Print Ads {#Feast}
 
@@ -123,3 +130,8 @@ permalink: /work/
 <img alt="2019 Feast Ad" src="/assets/portfolio/Feast/2019-FEAST-PrintAd.png" style="border: 1px solid gray;">
 
 
+**Role:** Print Production, Retouching
+
+**Tools Used:** Photoshop, InDesign
+
+**What I Did:** Laid out multiple print campaigns, Photoshop retouching.
