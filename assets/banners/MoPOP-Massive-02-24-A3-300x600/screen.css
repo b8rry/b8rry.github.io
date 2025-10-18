@@ -1,0 +1,210 @@
+/* common styles */
+img {
+  position: absolute; /* position images absolutely by default */
+  margin: 0;
+  border: none;
+}
+
+/* Deal with retina only sprites */
+img.retina {
+  transform: scale(0.5);
+  transform-origin: top left;
+}
+
+/* make sure to reset the origin when centering images */
+img.retina.center {
+  transform-origin: unset;
+}
+
+.center {
+  display: block;
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.vcenter {
+  display: block;
+  top: 0;
+  bottom: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+  padding: 0;
+  color: #fff;
+}
+
+/* position divs absolutely by default */
+div {
+  position: absolute;
+}
+
+#banner {
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box; /* Opera/IE 8+ */
+  opacity: 0; /* start with a zero opacity for loading */
+  background: #fff;
+  overflow: hidden;
+}
+
+#banner:hover {
+  cursor: pointer;
+}
+
+#border {
+  outline: #000 1px solid;
+  outline-offset: -1px;
+}
+
+/* end common styles */
+
+/* CSS Variables */
+:root {
+  --ad-width: 300px;
+  --ad-height: 600px;
+}
+
+#banner {
+  background: url('assets/background.png') no-repeat;
+  background-size: cover;
+  width: var(--ad-width);
+  height: var(--ad-height);
+}
+
+#border {
+  width: var(--ad-width);
+  height: var(--ad-height);
+}
+
+#ticker {
+  position: absolute;
+  top: 9px;
+  left: 5px;
+}
+
+#ticker2 {
+  position: absolute;
+  top: 568px;
+  left: 5px;
+}
+
+#squares {
+  position: absolute;
+  top:40px;
+  left: -1px;
+}
+
+#violator-logo {
+  position: absolute;
+    top: 424px;
+    left: -191px;
+}
+
+#logo {
+  position: absolute;
+  left: -1px;
+}
+
+#tickerbottombase {
+  position: absolute;
+}
+
+#slider1 {
+  position: absolute;
+  top: 227px;
+  left: -310px;
+}
+
+#slider2 {
+  position: absolute;
+}
+
+#slider3 {
+  position: absolute;
+  top: 346px;
+  left: -316px;
+}
+
+#slider4 {
+  position: absolute;
+  top: 406px;
+  left: -2px;
+}
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-logo {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px 0px;
+  width: 601px;
+  height: 1200px;
+}
+.icon-slider1 {
+  background-image: url(assets/txtsprite.png);
+  background-position: -1806px -125px;
+  width: 1238px;
+  height: 123px;
+}
+.icon-slider2 {
+  background-image: url(assets/txtsprite.png);
+  background-position: -602px 0px;
+  width: 601px;
+  height: 1200px;
+}
+.icon-slider3 {
+  background-image: url(assets/txtsprite.png);
+  background-position: -1806px 0px;
+  width: 1241px;
+  height: 124px;
+}
+.icon-slider4 {
+  background-image: url(assets/txtsprite.png);
+  background-position: -1806px -433px;
+  width: 786px;
+  height: 124px;
+}
+.icon-squares {
+  background-image: url(assets/txtsprite.png);
+  background-position: -1806px -249px;
+  width: 725px;
+  height: 183px;
+}
+.icon-ticker {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px -1699px;
+  width: 3032px;
+  height: 50px;
+}
+.icon-tickerbottombase {
+  background-image: url(assets/txtsprite.png);
+  background-position: -1204px 0px;
+  width: 601px;
+  height: 1200px;
+}
+.icon-violator-logo {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px -1201px;
+  width: 945px;
+  height: 497px;
+}

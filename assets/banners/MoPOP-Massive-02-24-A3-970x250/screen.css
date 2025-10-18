@@ -1,0 +1,196 @@
+/* common styles */
+img {
+  position: absolute; /* position images absolutely by default */
+  margin: 0;
+  border: none;
+}
+
+/* Deal with retina only sprites */
+img.retina {
+  transform: scale(0.5);
+  transform-origin: top left;
+}
+
+/* make sure to reset the origin when centering images */
+img.retina.center {
+  transform-origin: unset;
+}
+
+.center {
+  display: block;
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.vcenter {
+  display: block;
+  top: 0;
+  bottom: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+  padding: 0;
+  color: #fff;
+}
+
+/* position divs absolutely by default */
+div {
+  position: absolute;
+}
+
+#banner {
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box; /* Opera/IE 8+ */
+  opacity: 0; /* start with a zero opacity for loading */
+  background: #fff;
+  overflow: hidden;
+}
+
+#banner:hover {
+  cursor: pointer;
+}
+
+#border {
+  outline: #000 1px solid;
+  outline-offset: -1px;
+}
+
+/* end common styles */
+
+/* CSS Variables */
+:root {
+  --ad-width: 970px;
+  --ad-height: 250px;
+}
+
+#banner {
+  background: url('assets/background.png') no-repeat;
+  background-size: cover;
+  width: var(--ad-width);
+  height: var(--ad-height);
+}
+
+#border {
+  width: var(--ad-width);
+  height: var(--ad-height);
+}
+
+#ticker {
+  position: absolute;
+  top: -4px;
+  left: 6px;
+}
+
+#squares {
+  position: absolute;
+  left: -613px; /* 613 is at pac man */
+}
+
+#logo1 {
+  position: absolute;
+}
+
+#logo2 {
+  position: absolute;
+}
+
+#logo3 {
+  position: absolute;
+}
+
+#mask {
+  position: absolute;
+}
+
+#cta {
+  position: absolute;
+}
+
+#ctabase {
+  position: absolute;
+  left:-1px;
+}
+
+#ctabase2 {
+  position: absolute;
+  left:-1px;
+}
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-cta {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px -502px;
+  width: 1941px;
+  height: 501px;
+}
+.icon-ctabase {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px -1004px;
+  width: 1941px;
+  height: 501px;
+}
+.icon-ctabase2 {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px -1506px;
+  width: 1941px;
+  height: 501px;
+}
+.icon-logo1 {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px -2008px;
+  width: 1941px;
+  height: 501px;
+}
+.icon-logo2 {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px -2510px;
+  width: 1941px;
+  height: 501px;
+}
+.icon-logo3 {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px -3012px;
+  width: 1941px;
+  height: 501px;
+}
+.icon-mask {
+  background-image: url(assets/txtsprite.png);
+  background-position: -3674px 0px;
+  width: 1941px;
+  height: 501px;
+}
+.icon-squares {
+  background-image: url(assets/txtsprite.png);
+  background-position: 0px 0px;
+  width: 3673px;
+  height: 501px;
+}
+.icon-ticker {
+  background-image: url(assets/txtsprite.png);
+  background-position: -5616px 0px;
+  width: 6011px;
+  height: 99px;
+}
