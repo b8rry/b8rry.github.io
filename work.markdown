@@ -54,7 +54,18 @@ permalink: /work/
 **What I Did:** Created Print Ads and Billboards for this iconic PNW grocery retailer.
 
 
+<br />
+# Museum of Pop Culture (MOPOP) - Social Media, Banner Ads, Print Ads
 
+[MOPOP "Massive" Campaign 970x250](assets/banners/MOPOP/massive/970x250)
+[MOPOP "Massive" Campaign 300x600](assets/banners/MOPOP/massive/300x600)
+[MOPOP "Massive" Campaign 300x250](assets/banners/MOPOP/massive/300x250)
+[MOPOP "Massive" Campaign 320x50](assets/banners/MOPOP/massive/320x50)
+[MOPOP "Massive" Campaign 728x90](assets/banners/MOPOP/massive/728x90)
 
+**Role:** Production Artist, Animator
 
+**Tools Used:** Photoshop, Illustrator, After Effects, HTML/CSS/JS/GSAP
+
+**What I Did:** Built out campaign of social media assets, animating them as video as well as animated banners using Greensock Animation Platform (GSAP)
 
