@@ -63,7 +63,7 @@ January 2009 – May 2009
 **Early Career Roles**
 
 1996–2005
-- **Foote, Cone & Belding — Digital/Production Artist:** Created mechanicals, retouched images, and produced advertising assets for clients including MTV, Levi’s, Amazon.com, and AT&T.
+- **Foote, Cone & Belding — Digital/Production Artist:** Created mechanicals, retouched images, and produced advertising assets for clients including MTV, Levi’s, and AT&T.
 
 - **Circle.com — Junior Art Director:** Designed digital animated advertising, mentored junior production artists. Clients included E-Trade and early dot-com startups.
 
